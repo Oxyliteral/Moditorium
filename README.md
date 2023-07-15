@@ -25,4 +25,4 @@ https://github.com/Oxyliteral/FTL-MV-Leah
 
 **Cave Story**
 
-I heavil do not recommend this one, but for further details, see the Cave Story folder in this repository.
+I heavily do not recommend this one, but for further details, see the Cave Story folder in this repository.
