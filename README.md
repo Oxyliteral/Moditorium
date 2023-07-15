@@ -1,17 +1,20 @@
 # Moditorium
 Repository for the various mods made for various games that I've made.
 
-Mods, Hijinks, and General Shenanigans:
+List of Mods, Hijinks, and General Shenanigans:
 
-**Terraria**:
+**Terraria**
 
 https://steamcommunity.com/sharedfiles/filedetails/?id=2999171911
 
-**Convoy**:
+**Convoy**
+
 https://steamcommunity.com/sharedfiles/filedetails/?id=2998472694
 
-**Library of Ruina**:
+**Library of Ruina**
+
 **TBA**
 
-**Cave Story**:
+**Cave Story**
+
 **TBA**
