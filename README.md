@@ -15,6 +15,10 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2998472694
 
 https://github.com/Oxyliteral/SPC
 
+**FTL: Faster Than Light, Multiverse**
+
+https://github.com/Oxyliteral/FTL-MV-Leah
+
 **Library of Ruina**
 
 **TBA**
