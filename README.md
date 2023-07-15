@@ -11,10 +11,14 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2999171911
 
 https://steamcommunity.com/sharedfiles/filedetails/?id=2998472694
 
+**Starsector**
+
+https://github.com/Oxyliteral/SPC
+
 **Library of Ruina**
 
 **TBA**
 
 **Cave Story**
 
-**TBA**
+I wouldn't recommend this one, but for further details, see the Cave Story folder in this repository.
