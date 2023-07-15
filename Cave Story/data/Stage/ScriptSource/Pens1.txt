@@ -1,0 +1,574 @@
+
+#0090
+<MNA<CMU0002<FAI0000<END
+#0091
+<MNA<CMU0002<FAI0001<END
+#0092
+<MNA<CMU0002<FAI0002<END
+#0093
+<MNA<CMU0002<FAI0003<END
+#0094
+<MNA<FLJ0341:0095<CMU0002<FAI0004<END
+#0095
+<CMU0014<FAI0004<END
+#0098
+<CMU0014
+<ANP0500:0001:0000<FAI0004
+<CNP0301:0112:0002<WAI0100
+<ANP0500:0000:0000
+<MYD0002<SMC<FL+2010<DNP0301<END
+#0099
+<KEY<MNA<FLJ0341:0098<CMU0002
+<ANP0500:0001:0000<FAI0004
+<CNP0301:0112:0002<WAI0100
+<ANP0500:0000:0000
+<MYD0002<SMC<DNP0301<END
+#0100
+<PRI<FAO0004<TRA0010:0094:0018:0032
+#0101
+<PRI<FAO0004<TRA0013:0094:0037:0011
+#0102
+<FLJ3485:0104<FLJ0155:0103<PRI<SOU0011<DNP0102<FAO0004<FL+2010<TRA0011:0094:0016:0053
+#0103
+<PRI<SOU0011<CMU0000<DNP0102<FAO0004<TRA0011:0400:0016:0053
+#0104
+<PRI<MSGYou can't escape!<NOD<END
+#0150
+<KEY<MSGHey...<NOD
+Hey, you.<NOD<CNP0151:0074:0000<MNA<CMU0021<FAI0000
+<FAC0009<CLRYou're finally awake.<NOD
+We found you passed out in
+the cemetary.<NOD
+You were pretty banged up,
+holding a key,
+so we carried you over 
+here and used it.<NOD
+You look as good as
+new now, though.<NOD
+If you're all patched up,
+there's something waiting
+for you on the computer.<NOD
+Please, save Toroko.<NOD<CLO
+<END
+#0151
+<KEY<MSG<FAC0009We'll be at the
+Assembly Hall if you
+need us.<NOD<CLO
+<END
+#0152
+<FLJ2894:0157
+<FLJ2893:0158
+<FLJ2891:0156
+<FLJ2890:0154
+<KEY<MSG<FAC0025Oh. It's you.<NOD
+Have you come to return my
+machine gun?<YNJ0153<CLR<FAC0019Really?<NOD<CLR
+<GIT0004<FAC0000<FL+2890<FL-2892<FL-3539<FL+3490<AM-0004Handed over the =Machine Gun=.<NOD<CLR<GIT0000<FAC0019A mimigma in this village
+told me about your
+efforts against the doctor.<NOD
+Jack, I think his name was?<NOD<FAC0020
+He and the others had to
+go into hiding somewhere,
+in case the doctor came.<NOD<CLR<FAC0019But now that we're
+on the same side and
+all,<NOD let's work together,
+from here on out!<NOD<CLO<END
+#0153
+<MSG<FAC0020*Sigh*,<NOD
+I suppose not.<NOD<CLR<FLJ2891:0155<FL+2892<FL+3539<END
+#0154
+<KEY<FL+2891<MSG<FAC0025..Speaking of mimigma's,
+have you seen the
+little ones back
+from Sand Zone?<NOD<CLR<EVE0153
+#0155
+<MSG<FAC0025I was with them until some
+witch showed up.<NOD<FAC0020
+Without my machine gun, I
+was powerless to stop her.<NOD<FAC0025
+I tried to stop
+her anyways,<NOD
+and just look where
+it got me.<NOD<CLR<FAC0020......<NOD<CLR..She took them away,
+but I caught up with her.<NOD
+I knew I couldn't win,
+but I had to try.<NOD<CLR<FAC0025That's how I got all these
+injuries.<NOD<EVE0156
+#0156
+<KEY<MSG<FAC0025..They won't get away
+with this.<NOD
+I'll get those kids back,
+if it's the last thing
+I do.<NOD<END
+#0157
+<KEY<FL+2895<MSG<FAC0025Things are pretty serious,
+huh?<NOD
+Whatever you choose to do,
+I'll come with you.<NOD
+We'll stop the doctor,
+or we'll die trying.<NOD<END
+#0158
+<KEY<MSG<FAC0020I don't feel like
+talking to you right now.<NOD<END
+#0200
+<FLJ3485:0206
+<FLJ0159:0205
+<FLJ0158:0204
+<FLJ0157:0203
+<FLJ0325:0202
+<FLJ3450:0202
+<FLJ0154:0201
+<KEY<MSGWords light up the screen...<NOD<CLR<TUR"...If I have to, though,
+I really will..."<NOD<FLJ0153:0000<CLR<MSGDo you want to permit
+teleportation to the Egg Corridor?<YNJ0000<CLRPermission granted to access Egg
+Corridor.<NOD<FL+0153<PS+0001:6001<END
+#0201
+<KEY<MSGWords light up the screen...<NOD<CLR
+Do you want to permit
+teleportation to Grasstown?<YNJ0000<CLR
+<TURConnecting to Grasstown...<NOD<FL+3450<PS+0002:6002<END
+#0202
+<KEY<MSG<TUR
+Connected to Grasstown.<NOD<END
+#0203
+<KEY<MSG<TUR
+Enter command.<NOD<END
+#0204
+<KEY<MSG<TUR
+Connected to Sand Zone.<NOD<END
+#0205
+<KEY<MSGWords light up the screen...<NOD<CLR<TUR
+Head for the Egg Corridor
+                        --Kazuma<NOD<END
+#0206
+<PRI<MSGNow isn't the time
+for this.<NOD<END
+#0210
+<KEY<MSGFlowers...?<NOD<END
+#0500
+<FLJ3485:0502<FLJ3459:0501<KEY<MSGA teleporter.<NOD<SLP<NOD<END
+#0501
+<KEY<MSGA teleporter.<NOD<FLJ0741:0503
+There seems to be an
+incoming transport.<NOD<END
+#0502
+<PRI<MSGNow isn't the time
+for this.<NOD<END
+#0503
+<SLP<NOD<END
+#0550
+<KEY<MYD0000<FL+3485<CNP0660:0167:0002<MNP0552:0016:0008:0002<CNP0552:0117:0002<MNP0551:0017:0008:0000<CNP0551:0150:0000<HMC<MSG!?!<NOD<CLO<SOU0016<WAI0010<ANP0551:0010:0000<MNA<FAI0004<WAI0025<ANP0552:0003:0002<WAI0016<ANP0552:0000:0002<WAI0010<MSG<GIT0004<AM-0004
+=Machine Gun= taken...<NOD<GIT0000<CLO<WAI0010<SOU0016<ANP0552:0030:0002<ANP0551:0000:0000<WAI0025<ANP0552:0000:0002<MSG<CLR<FAC0025You'll pay for
+your crimes!<NOD<FAC0000<CLO<SMC<DNP0551<SOU0004<CNP0552:0118:0002<WAI0010<CMP0015:0004:0053<CMP0016:0004:0053<CMP0003:0005:0053<CMP0002:0006:0053<CMP0002:0007:0053<BSL0552<CMU0004<ANP0552:0010:0002
+<END
+#0551
+#0552
+<FLJ3483:0555
+<FLJ3482:0554
+<FLJ3481:0553<FL+3481<CMU0000
+<CNP0552:0117:0005
+<ANP0552:0005:0005<WAI0002
+<ANP0552:0030:0004<SOU0070
+<WAI0100<PRI<MSG
+Defeated Curly.<WAI0050<NOD.<WAI0010.<WAI0010?<WAI0025<CLR<CLO<CNP0552:0118:0002<WAI0010<MSG<FAC0025I'm just getting started!<NOD<FAC0000<CLO<BSL0552<CMU0004<ANP0552:0010:0002<END
+#0553
+<FL+3482
+<CMU0000
+<CNP0552:0117:0005
+<ANP0552:0005:0005<WAI0002
+<ANP0552:0030:0004<SOU0070
+<WAI0100<PRI<MSG
+Defeated Cur<WAI0010<CLR<CLO<CNP0552:0118:0002<WAI0010<MSG<FAC0025You-...*Cough*
+You won't get away
+with this..!<NOD<FAC0000<CLO<BSL0552<CMU0004<ANP0552:0010:0002<END
+#0554
+<FL+3483
+<CMU0000
+<CNP0552:0117:0005
+<ANP0552:0005:0005<WAI0002
+<ANP0552:0030:0004<SOU0070
+<WAI0100<PRI<MSG
+Defeated Curly.<WAI0010<NOD<CLO<FAO0004<WAI0025<EVE0555
+#0555
+<KEY<FL-3485<FL+3484<MSGYou search the remains...<NOD<CLR<AM+0004:0100<CMU0010<FAC0000<GIT0004
+Got the =Machine Gun=!<WAI0160<NOD<GIT0000<RMU<CLR<GIT1039<FL+1046<FL+3490<FL-3539<FL+3601<IT+0039
+Got the =Iron Bond=!<WAI0020<NOD<GIT0000<CLO<WAI0010<CMP0015:0004:0017<CMP0016:0004:0018<CMP0003:0005:0022<CMP0002:0006:0003<CMP0002:0007:0035<WAI0010<DNP0552<FAI0004<END
+#0600
+<FLJ0325:0601
+<KEY<MSG<FAC0009Welcome back.<NOD<CLRSue's back.<NOD
+She's been locked up in
+the cage outside.<NOD
+When the Doctor's flunkies
+come, we're going to try
+to get Toroko back.<NOD
+In exchange for Sue,
+you see.<NOD<CLRIt's not very nice, I know,
+but Toroko is one of us.<NOD
+That's what you get when
+you act alone.<NOD<END
+#0601
+<KEY<MSG<FAC0009I hope Toroko's safe...<NOD<END
+#0620
+<KEY<CMU0000<FL+0156<FL+0444
+<ANP0500:0001:0000
+<WAI0002<CNP0622:0055:0000<WAI0010
+<FAI0004
+<CNP0621:0113:0000
+<ANP0621:0030:0000<WAI0100
+<MSG<FAC0018Oooohh...<NOD<CLR<FAC0010...Are you okay?<NOD<CLO<FAC0000
+<WAI0030<ANP0621:0000:0002
+<MSG<FAC0018...Mmm.<NOD<CLRMy life flashed before
+my eyes.<NOD<CLR<FAC0010.....<NOD<CLO<FAC0000
+<ANP0500:0000:0000<WAI0030
+<ANP0102:0000:0002<SOU0011
+<CNP0625:0042:0000
+<MSG<FAC0001Kazuma!!<NOD<ANP0622:0000:0002<CLRAnd Professor Booster!<NOD<CLR<FAC0018Oh!<NOD<CLO<FAC0000
+<ANP0621:0003:0002<WAI0080
+<ANP0621:0000:0002
+<MSG<FAC0018You're all right, then?!<NOD<CLR<FAC0001Well, more or less.<NOD<CLO<FAC0000
+<CNP0624:0061:0000
+<ANP0625:0003:0000<WAI0016
+<ANP0624:0008:0000<WAI0016
+<ANP0624:0000:0000
+<SOU0011<ANP0102:0000:0000<WAI0048
+<ANP0625:0000:0000
+<MSG<FAC0007.....<NOD<CLR<FAC0018Who's that Mimiga?<NOD<CLO<FAC0000
+<WAI0030
+<ANP0625:0000:0002<WAI0030
+<ANP0624:0000:0002<WAI0050
+<ANP0625:0000:0000<WAI0020
+<MSG<FAC0001That's King.<NOD<CLRA friend of mine here in
+the village.<NOD<CLRThere used to be tons of
+Mimigas here.<NOD
+Nearly all of them,
+though, have been kidnapped
+by the Doctor's goons.<NOD<CLREven King has lost
+friends...<NOD<CLO
+<CMU0002
+<ANP0500:0001:0000
+<CNP0301:0112:0002<WAI0100
+<ANP0500:0000:0000
+<MYD0002<SMC<DNP0301<FL-0157<END
+#0621
+<KEY<FLJ0158:0631<MSG<FAC0018The Doctor's plans are
+proceeding exactly on
+schedule...<NOD
+If we don't do something
+soon...<NOD<END
+#0622
+<KEY<FLJ0158:0632<MSG<FAC0010Thanks for your help.<NOD<CLROur transportation didn't
+really survive, but at
+least we did.<NOD<END
+#0624
+<KEY<FLJ0158:0634<MSG<FAC0007Toroko as a death
+weapon...<NOD
+No! I'll never allow it!<NOD<END
+#0625
+<KEY<FLJ0158:0635<MYB0000<WAI0030<MYD0000<ANP0625:0000:0002<MSG
+<FAC0001Welcome back!<NOD<CLRLooks like I owe you
+another one.<NOD
+With my brother's help,<NOD
+we should be able to get
+around the password for
+that egg.<NOD<CLO<FAC0000
+<ANP0625:0003:0000<WAI0008
+<ANP0625:0000:0000<MSG<FAC0001Booster!<NOD<CLRCan we take this little
+guy with us when we go?<NOD<CLO<FAC0000
+<ANP0622:0003:0002<WAI0015
+<ANP0622:0005:0002
+<MSG<FAC0018<CMU0000.....<NOD<CLR
+<FAC0010Professor.<NOD<CLR<FAC0001???<NOD<CLR<FAC0018Sue, my dear...<NOD
+We have to suspend our
+escape.<NOD<CLRThe Doctor has located
+the red flowers.<NOD<ANP0624:0000:0000<CLR
+<FAC0007!!!<NOD<CLR<FAC0001What?<NOD<CLR<FAC0018While he has not yet
+acquired them, it is only
+a matter of time.<NOD
+The location is the Sand
+Zone.<NOD<CLRThe flowers are apparently
+to be found somewhere in
+the Sand Zone.<NOD<CLR
+<FAC0007The Sand Zone?<NOD<CLRYou mean, that's where
+we'll find the Doctor?<NOD<CLR<FAC0018Well,<NOD more likely one
+of his servants.<NOD
+If we don't destroy those
+flowers before they get
+their hands on them...<NOD<CLRHowever, the Sand Zone is
+exceedingly dangerous.<NOD
+Even supposing we made the
+trip,<NOD
+there's no guarantee that
+we would return alive...<NOD<CLR
+<FAC0007You're giving up?<NOD<CLR<FAC0018Actually...<NOD<CLRThere's one of us who's
+a perfect match for this
+job.<NOD<CLO<FAC0000
+<ANP0621:0003:0002<ANP0625:0003:0000<WAI0020
+<ANP0621:0000:0002<WAI0002<ANP0625:0000:0002
+<MSG<FAC0018It's you.<NOD<CLR
+<CMU0002<FAC0010...Who IS he?<NOD<CLR<FAC0018In fact...<NOD<CLRThis is one of the armed
+scout robots that were
+dispatched to this island<NOD
+10 years ago.<NOD<CLR<FAC0010A robot?!<NOD<CLR<FAC0018My impression was that
+they had been completely
+wiped out,<ANP0621:0000:0000<NOD
+but I do not know the
+particulars.<NOD
+It's entirely possible that
+one of them could have...<NOD<CLR<FAC0010Professor.<NOD
+I've connected to the Sand
+Zone.<NOD<CLR<FAC0018I see.<NOD<CLO<FAC0000
+<ANP0622:0003:0000<WAI0015
+<ANP0622:0000:0002
+<ANP0621:0000:0002<WAI0030<MSG<FAC0018You are the most suited
+to exploring this island.<NOD<CLRPlease. Give us your aid.<NOD<FL+0158<PS+0003:6003<END
+#0631
+<KEY<MSG<FAC0018You can reach the Sand
+Zone via the teleporter.<NOD
+Find the red flowers and
+burn every single one of
+them.<NOD<END
+#0632
+<KEY<MSG<FAC0010So you're one of the...<NOD<CLRI hadn't even noticed.<NOD<CLRMy, my, you certainly are
+well-built.<NOD<END
+#0634
+<KEY<MSG<FAC0007The Sand Zone...<NOD<END
+#0635
+<KEY<MSG<FAC0001If you get rid of the
+flowers, we'll be able to
+prevent the war for now.<NOD<CLRIt's a big responsibility.<NOD<END
+#0650
+<KEY<MSG<FAC0018Take Sue with you and
+flee this island...<NOD
+I beg you...<NOD<END
+#0651
+<FLJ2890:0652
+<FLJ2892:0653
+<FLJ2884:0000
+<FLJ3480:0000<FL+3480
+<DNP0651<KEY<MYD0000
+<ANP0500:0001:0000<WAI0050
+<MNP0650:0006:0007:0000
+<CNP0650:0113:0002
+<ANP0650:0030:0002<WAI0100
+<ANP0650:0000:0002
+<ANP0500:0000:0000<WAI0050
+<ANP0650:0003:0002<WAI0064
+<ANP0650:0000:0000
+<MSG
+<FAC0018.....<NOD<CLO<FAC0000
+<ANP0650:0000:0002<WAI0050
+<MSG<FAC0018Only you, I see...<NOD<CLR...The Doctor has acquired
+the red flowers.<NOD<CLR...The island's Mimigas
+have all fallen into his
+hands.<NOD<CLRSo the tragedy has become
+inevitable...<NOD<CLRI should have allowed
+at least Sue to escape
+when I had the chance...<NOD<CLO<FAC0000
+<ANP0650:0003:0002<WAI0022
+<ANP0650:0005:0002
+<IT+0023<FL+0744<FL+0162<GIT1023
+<MSG
+Got the =Booster v2.0=.<WAI0030<NOD<CLO<GIT0000
+<ANP0650:0000:0002
+<MSG<FAC0018Please heed my last
+request.<NOD<CLRIf you see Sue again,<NOD
+I want you to take her
+and flee this island.<NOD<CLRThat girl is Sakamoto's
+daughter,<NOD
+and she never wanted to
+come here in the first
+place.<NOD
+But we couldn't leave the
+child all alone,<NOD
+so she had no choice but
+to come along with us.<NOD<CLR
+I beg you.<NOD<CLRTake that girl with you
+and flee.<NOD<CLO
+<FL-0160<FL+0161<FL+0741<PS+0004:6004<END
+#0652
+<FLJ3480:0000<FL+3480
+<KEY<MM0
+<DNP0651<MYD0002
+<ANP0500:0001:0000<WAI0050
+<MNP0650:0006:0007:0000
+<CNP0650:0113:0000
+<ANP0650:0030:0002<WAI0100
+<ANP0650:0000:0002
+<ANP0500:0000:0002<WAI0050
+<ANP0650:0000:0004<WAI0050
+<MSG
+<FAC0018.....<NOD<CLO<FAC0000
+<ANP0650:0000:0002<WAI0050
+<ANP0650:0000:0004<WAI0050
+<MSG<FAC0018Only<CNP0152:0117:0002 you, I see...<NOD<ANP0152:0003:0000<WAI0080<ANP0152:0000:0000<WAI0025<CLROh!<NOD<ANP0152:0003:0002<WAI0016<ANP0152:0000:0002<CLR<FAC0019Hi!<NOD I'm Curly Brace.<NOD<CLR<FAC0018It's nice to meet you,
+but I have important news
+I need to deliver.<NOD<ANP0650:0003:0000<WAI0010<ANP0152:0000:0000<WAI0010<ANP0650:0000:0000<CLR<FAC0020...<NOD<CLR<FAC0018The Doctor has acquired
+the red flowers.<NOD<FL-0160<FL-0660<FL+0741<FL+2893<FL+2894<FL-3452<FL-3459<EVE0654
+
+#0653
+<FLJ3480:0000<FL+3480
+<KEY<MM0
+<DNP0651<MYD0002
+<ANP0500:0001:0000<WAI0050
+<MNP0650:0006:0007:0000
+<CNP0650:0113:0000
+<ANP0650:0030:0002<WAI0100
+<ANP0650:0000:0002
+<ANP0500:0000:0002<WAI0050
+<ANP0650:0000:0004<WAI0050
+<MSG
+<FAC0018.....<NOD<CLO<FAC0000
+<ANP0650:0000:0002<WAI0050
+<ANP0650:0000:0004<WAI0050
+<MSG<FAC0018Only you, I see...<NOD<CLR...The Doctor has acquired
+the red flowers.<NOD<FL-0160<FL-0660<FL+0741<FL+2893<FL-3459<EVE0654
+#0654
+<KEY<MSG<CLR...The island's Mimigas
+have all fallen into his
+hands.<NOD<CLR...The island's power
+source is somehow gone.<NOD<CLRI was able to find
+a teleporter that went
+to the Sand Zone,<NOD
+but neither Jenka nor I
+have any clue as to
+what possibly could have
+happened to it.<NOD<CLR...The island itself
+is beginning
+to collapse...<NOD<CLREven the teleporters
+are starting to
+collapse.<NOD<CLR...Everything's
+collapsing.<NOD<CLR...I could barely
+get here...<NOD<CLRTragedy has become
+inevitable...<NOD<CLRI should have allowed
+at least Sue to escape
+when I had the chance...<NOD<CLO<FAC0000<FLJ2890:0657<EVE0655
+#0655
+<ANP0650:0003:0000<WAI0028
+<ANP0650:0005:0000<EVE0656
+#0656
+<IT+0023<FL+0744<FL+0162<GIT1023
+<MSG
+Got the =Booster v2.0=.<WAI0030<NOD<CLO<GIT0000
+<ANP0650:0000:0004
+<MSG<FAC0018Please heed my last
+request.<NOD<CLRIf you see Sue again,<NOD
+I want you to take her
+and flee this island.<NOD<CLRThat girl is Sakamoto's
+daughter,<NOD
+and she never wanted to
+come here in the first
+place.<NOD
+But we couldn't leave the
+child all alone,<NOD
+so she had no choice but
+to come along with us.<NOD<CLR
+I beg you.<NOD<CLRTake that girl with you
+and flee.<NOD<CLR....<NOD<CLRIf you want to try
+to stop this madness,<NOD
+Jenka thought she could
+figure out what had
+happened, with time.<NOD
+..It's unlikely, but
+maybe she's found out
+the root of it all.<NOD<CLROh, one more thing.<NOD
+Be careful.<NOD<CLRSince the island's power
+source is gone, the
+teleporters might..<NOD
+'wire out' every now
+and then.<NOD<END
+#0657
+<KEY<ANP0650:0003:0000<WAI0008
+<ANP0650:0005:0000<EVE0656
+#0660
+<KEY<FLJ1020:0661<FLJ3527:0666<FLJ3486:0665<FLJ3484:0664<FLJ3485:0663<FLJ3457:0662<MSG<FAC0018Take Sue with you and
+flee this island...<NOD
+I beg you...<NOD<FAC0000<CLO
+<MS3..He doesn't seem to be in
+the mood for talking.<NOD<END
+#0661
+<FLJ3527:0666<KEY<MSG<FAC0018I'm truly sorry for the
+chaos that has befallen
+your island.<NOD<CLRWe humans must take the
+blame.<NOD<END
+#0662
+<FLJ3527:0666<KEY<MSG<FAC0018That friend of yours
+wanted me to tell you
+they've gone to the
+Egg Corridor.<NOD
+..Please, flee this
+island with Sue...<NOD<END
+#0663
+<PRI<MSGHe's out cold...<NOD<END
+#0664
+<KEY<FL+3486<MSG...<NOD<CLO<WAI0025<CNP0660:0113:0000<ANP0660:0005:0000<WAI0005<MSG<FAC0017Oh...<NOD<ANP0660:0000:0002<CLRThat girl wanted to
+ambush you when
+you got back...<NOD
+...Wouldn't listen to a
+thing I told her.<NOD<CLRI tried to stop her,
+and ended up like this.<NOD<CLRJust what, exactly,
+did you do to her?<WAI0032<NOD<CLRI see.<NOD
+You did what you
+thought you had to.<NOD
+There wasn't anything
+you could do to
+convince her.<NOD<CLRPlease,
+just focus on leaving
+the island with Sue.<NOD<END
+#0665
+<FLJ3527:0666<KEY<MSG<FAC0017Take Sue with you and
+flee this island...<NOD
+I beg you...<NOD<FAC0000<END
+#0666
+<KEY<MSG<FAC0018The teleporters seem
+to be powered again...<NOD
+The doctor must have
+repaired the core,
+somehow.<NOD<END
+#0700
+<KEY<CMU0000<FAO0004<TRA0025:0700:0002:0000
+#6001
+<FLJ0159:6011
+<FLJ2300:6012
+<PRI<MSGDo you want to go to the
+Egg Corridor?<YNJ0000<CLO
+<KEY<CNP0300:0111:0002<HMC<WAI0060<ANP0500:0001:0000
+<WAI0100<FAO0004<FL+2010<TRA0002:0099:0005:0006
+#6002
+<PRI<MSGDo you want to go to Grasstown?<YNJ0000<FLJ2884:6006<CLO
+<KEY<CNP0300:0111:0002<HMC<WAI0060<ANP0500:0001:0000
+<WAI0100<FAO0004<TRA0006:0098:0004:0018
+#6003
+<PRI<MSGDo you want to go to the
+Sand Zone?<YNJ0000<FLJ3462:6006<FLJ3457:6006<FLJ2893:6007<FLJ2884:6006<CLO
+<KEY<CNP0300:0111:0002<HMC<WAI0060<ANP0500:0001:0000
+<WAI0100<FAO0004<TRA0010:0099:0036:0033
+
+#6004
+<PRI<MSGDo you want to go to the
+Labyrinth?<YNJ0000<CLO
+<KEY<CNP0300:0111:0002<HMC<WAI0060<ANP0500:0001:0000
+<WAI0100<FAO0004<TRA0043:0099:0010:0034
+
+#6005
+<PRI<MSGDo you want to go to the
+Plantation?<YNJ0000<CLO
+<KEY<CNP0300:0111:0002<HMC<WAI0060<ANP0500:0001:0000
+<WAI0100<FAO0004<TRA0060:0099:0009:0009
+#6006
+<PRI<MSGError: No response from
+corresponding teleporter.<NOD<CLO<END
+#6007
+<CLO<KEY<CNP0300:0111:0002<HMC<WAI0060<ANP0500:0001:0000
+<WAI0100<FAO0004<TRA0104:0099:0036:0033
+#6009
+<TRA0049:0400:0007:0006
+#6010
+<TRA0049:0500:0007:0006
+#6011
+<PRI<MSGDo you want to go to the
+Egg Corridor?<YNJ0000<CLO
+<KEY<CNP0300:0111:0002<HMC<WAI0060<ANP0500:0001:0000
+<WAI0100<FAO0004<FL+2010<FLJ3457:6010<FLJ2890:6009<TRA0049:0099:0007:0006
+#6012
+<PRI<MSGIt's probably wise to not go
+back there.<NOD<END

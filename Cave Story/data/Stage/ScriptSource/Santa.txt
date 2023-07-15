@@ -1,0 +1,82 @@
+
+#0090
+<MNA<CMU0002<FAI0000<END
+#0091
+<MNA<CMU0002<FAI0001<END
+#0092
+<MNA<CMU0002<FAI0002<END
+#0093
+<MNA<CMU0002<FAI0003<END
+#0094
+<MNA<FLJ0341:0099<CMU0002<FAI0004<END
+
+#0099
+<CMU0028<FAI0004<END
+
+#0100
+<PRI<SOU0011<DNP0100<FL-2751<FL-2752<FAO0004<TRA0006:0094:0004:0012
+
+
+
+#0120
+<KEY<MSG<TURWatch out! Deathtrap to your left.
+One touch means instant death!<NOD<END
+
+
+#0300
+<FLJ2752:0304
+<FLJ2751:0303
+<ITJ0008:0301
+<KEY<MSG*Crackle* *Snap!*<NOD
+The charcoal burns fiercely.<NOD<CLR
+<EVE0305
+
+#0301
+<KEY<GIT1008<MSGDo you want to use the
+=Jellyfish Juice=?<YNJ0305<CLO<GIT0000
+<IT-0008<ANP0300:0010:0000<FL+2751<WAI0030<END
+
+#0303
+<ITJ0012:0304<FL+0242<KEY<MSGYou find something in the
+ashes...<NOD<CLR<GIT1012<IT+0012
+<CMU0010Got the =Charcoal=.<WAI0160<NOD<CLO<RMU<FL+2752<FL-2751<END
+
+#0304
+<KEY<MSGThere's only ashes remaining.<NOD<END
+
+#0305
+<GIT0000<KEY<MSGDo you want to try
+to put the fire out?<YNJ0000<CLO
+<ANP0300:0010:0000<WAI0030
+<CNP0300:0000:0000<SNP0202:0015:0005:0000<WAI0010<PRI<MSGThe fire spreads to you.<NOD<CLO<FL+2751<END
+
+#0500
+<FLJ0226:0506
+<FLJ0242:0505
+<FLJ0484:0504
+<FLJ0241:0503
+<FLJ0240:0502
+<KEY<FL+0240<MSGThanks, you really saved me there.<NOD
+Here, you can have this.<NOD<GIT0003<AM+0003:0000<CLR
+<CMU0010Got the =Fireball=!<WAI0160<NOD<RMU<GIT0000<CLRYou're looking for someone?<NOD
+I haven't seen anyone else
+around here.<NOD
+If you want to go searching
+farther in,<NOD
+you'll have to pass through the
+fireplace in Chaco's house...<NOD<FL+0241<FL+0261<END
+#0503
+<KEY<MSGYou can get to the inner part of
+Grasstown by passing through the
+fireplace in Chaco's house.<NOD<END
+#0504
+<KEY<MSGYou need some =Charcoal=?<NOD
+You can take what's in my
+fireplace, if you like.<NOD<END
+#0505
+<KEY<MSGWhat do you need charcoal for?<NOD<END
+#0506
+<KEY<MSGI heard some kind of crash outside
+a little while ago.<NOD
+That and screams of terror...<NOD<END
+

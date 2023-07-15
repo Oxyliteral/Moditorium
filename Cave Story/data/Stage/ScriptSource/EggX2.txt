@@ -1,0 +1,252 @@
+
+#0090
+<MNA<CMU0014<FAI0000<END
+#0091
+<MNA<CMU0014<FAI0001<END
+#0092
+<MNA<CMU0014<FAI0002<END
+#0093
+<MNA<CMU0014<FAI0003<END
+#0094
+<FLJ0120:0095<ANP0200:0010:0002<EVE0095
+#0095
+<MNA<CMU0014<FAI0004<END
+#0097
+#0098
+<FL+3521<KEY<MNA<CMU0014<HMC<FAI0000<WAI0010<SOU0011<DNP0100<MNP0097:0004:0010:0002<ANP0097:0050:0002<WAI0016<MNP0099:0004:0010:0002<ANP0097:0000:0002<FLJ3471:0101<EVE0103
+#0099
+#0100
+<KEY<SOU0011<ANP0100:0000:0002<FAO0004<TRA0049:0094:0290:0008
+#0101
+<ANP0099:0003:0002<WAI0048<ANP0097:0050:0002<ANP0099:0000:0002<MSG<FAC0025Hello? Kazuma?<ANP0099:0003:0002<WAI0048<ANP0099:0000:0002<CNP0400:0055:0000<CLR<FAC0010Who's there?<WAI0010<ANP0097:0000:0002
+Oh, it's you.<NOD<CLRGlad to see you're
+all right.<NOD And you
+even brought a friend.<NOD
+I'm the only one here,
+though.<NOD<CLRAfter you left for the
+Sand Zone,<NOD
+the rest of us hurried
+to secure a means of
+escape.<NOD<CLRThat's when Misery showed
+up.<NOD
+Sue got taken off
+with her,<NOD
+and I haven't seen
+the professor...<NOD<CLR.....<NOD<CLRI gather the Doctor
+was able to obtain
+the seeds.<NOD<CLROh,<NOD no, no, I'm not
+blaming you...<NOD<ANP0400:0000:0002
+The Doctor's victory was
+assured from the moment<NOD
+he got his hands on that
+Crown, really.<NOD<CLRIt's only a matter of time
+before his army of wild
+Mimigas is complete...<NOD<CLRAfter that, I fear not
+even you could stop him.<NOD<CLO<FAC0000
+<WAI0016
+<MSG<FAC0010We've no choice but
+to flee...<NOD<CLRI figured we might be
+able to escape if only we
+had a Sky Dragon.<NOD
+...That's why I came here.<NOD<CLRAnd now, my dragon
+has hatched.<NOD<CLO<FAC0000
+<WAI0050<ANP0400:0000:0000<WAI0100
+<MSG<FAC0010Would you both like to
+escape with me?<YNJ0102<FL+0960<ANP0097:0000:0000<CLR<MSG<FAC0025What!?<NOD<CLRI thought we were
+going to fight the
+doctor together!<NOD<CLR<ANP0097:0000:0002<FAC0010<ANP0400:0000:0002There's no
+other way.<NOD
+He did what he could.<NOD
+We all did what
+we could.<NOD
+And it wasn't enough.<NOD<FAC0000<CLR<CLO
+<WAI0031<ANP0400:0005:0002<SOU0011<CNP0110:0018:0002
+<WAI0020<CNP0400:0000:0000<WAI0020<ANP0097:0000:0000<MSG<FAC0025...<NOD<FAC0025
+You can't seriously
+be considering this.<NOD<CLR<FAC0000......<NOD<CLR<FAC0020Fine.<NOD Go.<NOD
+But I'm going to at least 
+try to defeat the doctor.<NOD
+With or without you.<NOD<CLO<ANP0099:0003:0002<WAI0112<ANP0099:0000:0002<WAI0015<DNP0099<FL+0940<FL+3472<FAO0004<WAI0025<SMC<TRA0053:0092:0004:0165
+#0102
+<KEY<WAI0020<ANP0400:0000:0002
+<MSG<FAC0010I see...<NOD<CLO<FAC0000
+<WAI0050<ANP0400:0000:0000
+<WAI0010<ANP0400:0005:0000
+<MSG<FAC0010You know,<NOD there's one
+other way one might
+return the Mimigas to<NOD
+their natural state.<NOD<CLR<FAC0025Really?<NOD<CLR<FAC0010You could destroy the
+island's core.<NOD
+If you did that, however,
+the island would most
+likely crumble.<NOD
+A dangerous choice, no?<NOD<CLR<FAC0025Hmm...<NOD<FAC0000<CLO<WAI0050<ANP0400:0000:0000<MSG<FAC0010Well, either way, we
+don't even know where
+the core is...<NOD<CLRIf you'd like to give
+it a try, I can wait.<NOD<CLRBut remember, if the
+situation grows dire,<NOD
+I may have to leave
+without you...<NOD<FAC0000<CLO
+<WAI0031<ANP0400:0005:0002<SOU0011<CNP0110:0018:0002
+<WAI0020<CNP0400:0000:0000<FL+0940<WAI0020<ANP0097:0000:0000<MSG<FAC0025I'll follow whatever
+you choose to do.<NOD
+Come on, let's get this
+over with.<NOD<CLO
+<ANP0099:0003:0002<WAI0112<ANP0099:0000:0002<WAI0015<DNP0099<FL+0940<FL+3474<FAO0004<WAI0025<SMC<TRA0053:0092:0004:0165
+#0103
+<ANP0099:0003:0002<WAI0064<ANP0097:0050:0002<WAI0064
+<ANP0099:0000:0002<ANP0097:0000:0002<CNP0400:0055:0000
+<MSG<FAC0010Who's there?<NOD<ANP0097:0050:0002<CLR<MSG<FAC0025Who are you?<WAI0040<ANP0097:0000:0002
+<CLR<FAC0010Oh, it's you.<NOD<CLRGlad to see you're
+all right.<NOD And you
+even brought a friend.<NOD
+I'm the only one here,
+though.<NOD<CLRAfter you left for the
+Sand Zone,<NOD
+the rest of us hurried
+to secure a means of
+escape.<NOD<CLRThat's when Misery showed
+up.<NOD
+Sue got taken off
+with her,<NOD
+and I haven't seen
+the professor...<NOD<CLR.....<NOD<CLRI gather the Doctor
+was able to obtain
+the seeds.<NOD<CLROh,<NOD no, no, I'm not
+blaming you...<NOD<ANP0400:0000:0002
+The Doctor's victory was
+assured from the moment<NOD
+he got his hands on that
+Crown, really.<NOD<CLRIt's only a matter of time
+before his army of wild
+Mimigas is complete...<NOD<CLRAfter that, I fear not
+even you could stop him.<NOD<CLO<FAC0000
+<WAI0016
+<MSG<FAC0010We've no choice but
+to flee...<NOD<CLRI figured we might be
+able to escape if only we
+had a Sky Dragon.<NOD
+...That's why I came here.<NOD<CLRAnd now, my dragon
+has hatched.<NOD<CLO<FAC0000
+<WAI0050<ANP0400:0000:0000<WAI0100
+<MSG<FAC0010Would you both like to
+escape with me?<YNJ0104<FL+0960<ANP0400:0000:0002Yes,
+there's no other way.<NOD
+We did what we could.<NOD<CLR<CLO
+<WAI0031<ANP0400:0005:0002<SOU0011<CNP0110:0018:0002
+<WAI0020<CNP0400:0000:0000<WAI0020<ANP0097:0000:0000<MSG<FAC0025Good choice.<NOD
+There's nothing left
+for us here.<NOD<CLO<ANP0099:0003:0002<WAI0080<ANP0099:0000:0002<WAI0015<DNP0099<FL+0940<FL+3473<FAO0004<WAI0025<SMC<TRA0053:0092:0004:0165
+#0104
+<KEY<WAI0020<ANP0400:0000:0002
+<MSG<FAC0010I see...<NOD<CLO<FAC0000
+<WAI0050<ANP0400:0000:0000
+<WAI0010<ANP0400:0005:0000
+<MSG<FAC0010You know,<NOD there's one
+other way one might
+return the Mimigas to<NOD
+their natural state.<NOD<CLR<FAC0025Really?<NOD<CLR<FAC0010You could destroy the
+island's core.<NOD
+If you did that, however,
+the island would most
+likely crumble.<NOD
+A dangerous choice, no?<NOD<CLR<FAC0025Hmm...<NOD<CLO<WAI0050<ANP0400:0000:0000<MSG<CLR<FAC0010Well, either way, we
+don't even know where
+the core is...<NOD<CLRIf you'd like to give
+it a try, I can wait.<NOD<CLRBut remember, if the
+situation grows dire,<NOD
+I may have to leave
+without you...<NOD<CLO
+<WAI0031<ANP0400:0005:0002<SOU0011<CNP0110:0018:0002
+<WAI0020<CNP0400:0000:0000<FL+0940<WAI0020<ANP0097:0000:0000<MSG<CLR<FAC0025I think leaving
+would be the better call.<NOD
+There's nothing left
+for us here.<NOD
+But I trust you.<NOD<CLO<ANP0099:0003:0002<WAI0080<ANP0099:0000:0002<WAI0015<DNP0099<FL+0940<FL+3475<FAO0004<WAI0025<SMC<TRA0053:0092:0004:0165
+#0110
+<KEY<FLJ0940:0111<MSGYou feel a cold wind
+blowing in...<NOD<END
+#0111
+<KEY<FAO0002<TRA0053:0092:0004:0165
+
+#0110
+
+#0400
+
+#0500
+<KEY<MSGWords light up the screen.<NOD<CLR
+<TURHATCH SUCCESSFUL<NOD<FLJ0941:0000<CLO
+<FL+0941
+<WAI0020<CMU0000<MSGWho's there?<MYD0002<NOD<CLO
+<WAI0050<CNP0400:0055:0000
+<WAI0010<ANP0400:0003:0000
+<WAI0048<ANP0400:0000:0000
+<CMU0014<MSG<FAC0010Oh, it's you.<NOD<CLRGlad to see you're
+all right.<NOD
+I'm the only one here.<NOD<CLRAfter you left for the
+Sand Zone,<NOD
+the rest of us hurried
+to secure a means of
+escape.<NOD<CLRThat's when Misery showed
+up.<NOD
+Sue got taken off
+with her,<NOD
+and I haven't seen
+the professor...<NOD<CLR.....<NOD<CLRI gather the Doctor
+was able to obtain
+the seeds.<NOD<CLROh,<NOD no, no, I'm not
+blaming you...<NOD<ANP0400:0000:0002
+The Doctor's victory was
+assured from the moment<NOD
+he got his hands on that
+Crown, really.<NOD<CLRIt's only a matter of time
+before his army of wild
+Mimigas is complete...<NOD<CLRAfter that, I fear not
+even you could stop him.<NOD<CLO<FAC0000
+<WAI0010<ANP0400:0003:0002
+<WAI0016<ANP0400:0000:0002
+<MSG<FAC0010We've no choice but
+to flee...<NOD<CLRI figured we might be
+able to escape if only we
+had a Sky Dragon.<NOD
+...That's why I came here.<NOD<CLRAnd now, my dragon
+has hatched.<NOD<CLO<FAC0000
+<WAI0050<ANP0400:0000:0000<WAI0100
+<MSG<FAC0010Would you like to escape
+with me?<YNJ0501<FL+0960<CLR<ANP0400:0000:0002Yes, there's no
+other way.<NOD
+We did what we could.<NOD<CLO
+<WAI0010<ANP0400:0003:0002
+<WAI0031<ANP0400:0005:0002<SOU0011<CNP0110:0018:0002
+<WAI0020<CNP0400:0000:0000<FL+0940
+<END
+
+
+#0501
+<KEY<WAI0020<ANP0400:0000:0002
+<MSG<FAC0010I see...<NOD<CLO<FAC0000
+<WAI0050<ANP0400:0000:0000
+<WAI0010<ANP0400:0005:0000
+<MSG<FAC0010You know,<NOD there's one
+other way one might
+return the Mimigas to<NOD
+their natural state.<NOD<CLRYou could destroy the
+island's core.<NOD
+If you did that, however,
+the island would most
+likely crumble.<NOD
+A dangerous choice, no?<NOD<WAI0050<ANP0400:0000:0000<CLRWell, either way, we
+don't even know where
+the core is...<NOD<CLRIf you'd like to give
+it a try, I can wait.<NOD<CLRBut remember, if the
+situation grows dire,<NOD
+I may have to leave
+without you...<NOD<CLO
+<WAI0010<ANP0400:0003:0002
+<WAI0031<ANP0400:0005:0002<SOU0011<CNP0110:0018:0002
+<WAI0020<CNP0400:0000:0000<FL+0940
+<END
+<END
+
+#0502
+
