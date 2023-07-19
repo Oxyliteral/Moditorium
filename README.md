@@ -1,7 +1,11 @@
 # Moditorium
-Repository for the various mods made for various games that I've made.
+Repository for the various mods made for various games that I've made. Also doubles as a list of games you should consider playing.
 
 List of Mods, Hijinks, and General Shenanigans:
+
+**Ring of Pain**
+
+https://github.com/Oxyliteral/ROP-easier
 
 **Terraria**
 
